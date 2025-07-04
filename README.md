@@ -1,5 +1,7 @@
 # 🧠 FocusGAN Demo
 
+**🔬 Full Training Code:** [github.com/saudalsulaiman/focusgan](https://github.com/saudalsulaiman/focusgan)
+
 FocusGAN is a visual saliency prediction model that highlights the regions of an image that are most likely to draw human attention—just like your eyes do.
 
 🎯 **Live Demo:** [Try it on Hugging Face Spaces](https://huggingface.co/spaces/SaudF/focusgan-demo)
@@ -32,6 +34,4 @@ The model was trained using Binary Cross-Entropy loss on saliency maps derived f
 📊 **Result:** Higher correlation with ground-truth maps and more interpretable saliency predictions.
 
 ---
-
-👉 [View the full training code here](https://github.com/saudalsulaiman/focusgan)
 
