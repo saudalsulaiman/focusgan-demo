@@ -33,5 +33,5 @@ The model was trained using Binary Cross-Entropy loss on saliency maps derived f
 
 ---
 
-👉 [View the full training code here](https://github.com/SaudF/focusgan)
+👉 [View the full training code here](https://github.com/saudalsulaiman/focusgan)
 
